@@ -1,8 +1,8 @@
 # Ghosting
-A story RPG about being a ghost
+A story RPG about being a ghost.
 
 #### How to play
-Open the HTML file in your browser. 
+Open the HTML file in your browser, or play it [here](https://listlessnpc.itch.io/ghosting).
 
 Use key `UP`, `DOWN`, `LEFT`, `RIGHT` to move around and interact with things.
 
